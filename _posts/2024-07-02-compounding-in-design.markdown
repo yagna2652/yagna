@@ -2,7 +2,7 @@
 layout: post
 title:  "compounding in design"
 date:   2024-07-02 14:28:36 +0530
-categories: is-category-ko-kya-naam-du
+categories: iscategorykokyanaamdu
 ---
 
 Compounding in product design
