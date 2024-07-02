@@ -5,7 +5,6 @@ date:   2024-07-02 14:28:36 +0530
 categories: example
 ---
 
-Compounding in product design
 Sarah Tavel of Greylock Partners has a growth framework that lies at the heart of compounding: thinking in virtuous loops instead of marketing funnels.
 
 A marketing funnel doesn't compound if it doesn't loop back in some way and make getting the next customer easier for the company. If you need to put in the same effort to get every new customer, your growth is not compounding.
