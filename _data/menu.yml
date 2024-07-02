@@ -18,7 +18,7 @@ entries:
 
   - title: posts by category
     post_list:
-      category: is category ko kya naam du
+      category: iscategorykokyanaamdu
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
