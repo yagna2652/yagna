@@ -9,6 +9,8 @@ entries:
         url: https://github.com/yagna2652
       - title: linkedin
         url: https://www.linkedin.com/in/yagna-p-0a6634103/
+      - title: about
+        url: about
   
 
   - title: all posts
@@ -25,9 +27,6 @@ entries:
       show_more_text: See more posts...
       show_more_url: sauce-archive.html
 
-  - title: Who am I
-    entries:
-          - title: about
-            url: about
+
   
   
