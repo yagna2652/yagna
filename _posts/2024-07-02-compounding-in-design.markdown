@@ -2,7 +2,7 @@
 layout: post
 title:  "compounding in design"
 date:   2024-07-02 14:28:36 +0530
-categories: example
+categories: sauce 
 ---
 
 Sarah Tavel of Greylock Partners has a growth framework that lies at the heart of compounding: thinking in virtuous loops instead of marketing funnels.

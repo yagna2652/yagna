@@ -2,7 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: about
+  - title: Hi there
     entries:
       - title: everything written here is AI generated
       - title: github
@@ -20,13 +20,14 @@ entries:
 
   - title: posts by category
     post_list:
-      category: example
+      category: sauce
       show_more: true
       show_more_text: See more posts...
-      show_more_url: example-archive.html
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
+      show_more_url: sauce-archive.html
+
+  - title: Who am I
+    entries:
+          - title: about
+            url: about
+  
   
