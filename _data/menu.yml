@@ -30,10 +30,3 @@ entries:
       show_more_text: See more posts...
       show_more_url: example2-archive.html
   
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
