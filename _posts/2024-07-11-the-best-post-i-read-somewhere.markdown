@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "compounding in design"
+title:  "best post i read somewhere"
 date:   2024-07-22 8:31:36 +0530
 categories: misc
 ---
