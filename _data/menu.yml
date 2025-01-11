@@ -12,8 +12,7 @@ entries:
       - title: about
         url: about
       - title: POW
-        url: https://yagna.site/sauce/2024/01/11/pow
-  
+        url: https://yagna.site/sauce/2024/01/11/proof-of-work  
 
   - title: all posts
     post_list:
