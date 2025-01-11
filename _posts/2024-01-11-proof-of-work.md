@@ -5,23 +5,82 @@ date:   2024-1-11 14:28:36 +0530
 categories: sauce 
 ---
 
-Ultrahuman - Jan'24
+Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus.
 
-CouponDunia is India’s largest digital coupon marketplace. It was acquired by Times Internet in 2014.
+# Sample heading 1
+## Sample heading 2
+### Sample heading 3
+#### Sample heading 4
+##### Sample heading 5
+###### Sample heading 6
 
-Product & Business Owner for CashBoss, a new business unit within CouponDunia. press
+Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod.
 
-Shipped the v1 of CashBoss Android App in 4 months and scaled it to 1 million installs.
+## Lists
 
-The app has a rating of 4.3 and is one of the top apps in its category.
+Unordered:
 
-The business unit has been profitable since launch.
+- Fusce non velit cursus ligula mattis convallis vel at metus[^2].
+- Sed pharetra tellus massa, non elementum eros vulputate non.
+- Suspendisse potenti.
 
-Product Owner of the CouponDunia Web Team (Desktop).
+Ordered:
 
-Took additional responsibility of the CouponDunia website which received close to 100k DAU.
-Led growth for all of CouponDunia products.
+1. Quisque arcu felis, laoreet vel accumsan sit amet, fermentum at nunc.
+2. Sed massa quam, auctor in eros quis, porttitor tincidunt orci.
+3. Nulla convallis id sapien ornare viverra.
+4. Nam a est eget ligula pellentesque posuere.
 
-Ran multiple experiments to improve funnel conversion across the website.
+## Blockquote
 
-Worked with the SEO, Digital Marketing teams to deliver growth goals.
+The following is a blockquote:
+
+> Suspendisse tempus dolor nec risus sodales posuere. Proin dui dui, mollis a consectetur molestie, lobortis vitae tellus.
+
+## Thematic breaks (<hr>)
+
+Mauris viverra dictum ultricies[^3]. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. **You can put some text inside the horizontal rule like so.**
+
+---
+{: data-content="hr with text"}
+
+Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. **Or you can just have an clean horizontal rule.**
+
+---
+
+Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. Or you can just have an clean horizontal rule.
+
+## Code
+
+Now some code:
+
+```
+const ultimateTruth = 'this theme is the best!';
+console.log(ultimateTruth);
+```
+
+And here is some `inline code`!
+
+## Tables
+
+Now a table:
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+## Images
+
+![theme logo](https://raw.githubusercontent.com/riggraz/no-style-please/master/logo.png){:.ioda}
+
+Logo of *no style, please!* theme[^4]
+
+---
+{: data-content="footnotes"}
+
+[^1]: this is a footnote. It should highlight if you click on the corresponding superscript number.
+[^2]: hey there, i'm using no style please!
+[^3]: this is another footnote.
+[^4]: this is a very very long footnote to test if a very very long footnote brings some problems or not. I strongly hope that there are no problems but you know sometimes problems arise from nowhere.
