@@ -9,14 +9,7 @@ categories: sauce
 
 Amazon.com passed many milestones in 1997: by year-end, we had served more than 1.5 million customers,yielding 838% revenue growth to $147.8 million, and extended our market leadership despite aggressive competitive entry
 
-# Sample heading 1
-## Sample heading 2
-
-#### Sample heading 4
-##### Sample heading 5
-###### Sample heading 6
-
-Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod.
+But this is Day 1 for the Internet and, if we execute well, for Amazon.com. Today, online commerce savescustomers money and precious time. Tomorrow, through personalization, online commerce will accelerate the very process of discovery. Amazon.com uses the Internet to create real value for its customers and, by doing so,hopes to create an enduring franchise, even in established and large markets.
 
 ## Lists
 
