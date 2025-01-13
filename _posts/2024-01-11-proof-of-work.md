@@ -9,7 +9,7 @@ categories: sauce
 
 Our team at Ultrahuman has passed many milestones in 2024: by year-end, we have $6,818,319 in direct website sales, along with an additional $414,000 in creator-driven Amazon sales. We closed December with a solid $2.9M in revenue, fueled by 550 content pieces and 228 onboardings. Without any special offers, the surge from Black Friday content and seasonal fitness/gifting trends boosted our Daily Revenue Run Rate (DRR) to $91K—up 170% from October, our last non-promo month. Strong organic demand and strategic content are clearly driving growth.
 
-![image](/Users/yagna/yagna/_posts/2024-01-11-proof-of-work.md)
+![image](/Users/yagna/yagna/Report(Dec'24).png)
 
 
 
