@@ -7,7 +7,7 @@ categories: sauce
 
 ### [Ultrahuman](https://www.ultrahuman.com/)(Jan'24 - Now)
 
-Our team at Ultrahuman has passed many milestones in 2024: by year-end, we have $6,818,319 in direct website sales, along with an additional $414,000 in creator-driven Amazon sales. We closed December with a solid $2.9M in revenue, fueled by 550 content pieces and 228 onboardings. Without any special offers, the surge from Black Friday content and seasonal fitness/gifting trends boosted our Daily Revenue Run Rate (DRR) to $91K—up 170% from October, our last non-promo month. But this was not the case in Jan'24. We were celebrating our first ever $250K month with and a daily revenue of $7.5K.
+Our team at Ultrahuman has passed many milestones in 2024: by year-end, we have $6.8 million in direct website sales, along with an additional $414,000 in creator-driven Amazon sales. We closed December with a solid $2.9 million in revenue, fueled by 550 content pieces and 228 onboardings. Without any special offers, the surge from Black Friday content and seasonal fitness/gifting trends boosted our Daily Revenue Run Rate (DRR) to $91,000—up 170% from October, our last non-promo month. But this was not the case in Jan ’24. We were celebrating our first-ever $250,000 month with a daily revenue of $7,500.
 
 ![Image#001: Jan Report](/assets/images/001-POW-Jan-24.png)
 
@@ -16,5 +16,17 @@ This was our hypothesis:
 > Scale is a byproduct of repetitions.
 
 My question was: **How do I make getting those reps easy?**
+
+Humans are rarely known for consistency - except for Prateek Bhai. To get our team performing at his level, we needed to build a level playing field. Sure, having six Prateeks would've solved everything, but we have just one. And perhaps that's for the best.
+Working backwards from our goals, the math was clear: with a 10% onboarding rate and a monthly target of 500, we needed 5,000 outbound reaches. That's 240 reaches daily, split between four people - 60 personalized emails each. Every single day.
+Think about that: a human being crafting 60 unique, handwritten emails while juggling everything else on their plate. It wasn't just challenging; it was unsustainable. We needed to think differently.
+
+That's when we discovered Gumloop, an AI tool that transformed our entire approach to email outreach. Here's what makes it revolutionary: feed it a YouTube video, and it instantly analyzes the transcript, creating a perfect summary. But that's just the beginning.
+
+The real magic happens when its AI crafts cold emails that feel genuinely personal, drawing from that deep understanding of the video content. What once took hours of human effort now happens with a single click. We didn't just increase efficiency - we completely reimagined what's possible in personalized outreach.
+
+Second piece of the onboarding puzzle is follow ups.
+
+
 
 
