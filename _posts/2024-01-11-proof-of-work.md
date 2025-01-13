@@ -7,9 +7,14 @@ categories: sauce
 
 ### [Ultrahuman](https://www.ultrahuman.com/)(Jan'24 - Now)
 
-Amazon.com passed many milestones in 1997: by year-end, we had served more than 1.5 million customers,yielding 838% revenue growth to $147.8 million, and extended our market leadership despite aggressive competitive entry
+Our team at Ultrahuman has passed many milestones in 2024: by year-end, we have $6,818,319 in direct website sales, along with an additional $414,000 in creator-driven Amazon sales. We closed December with a solid $2.9M in revenue, fueled by 550 content pieces and 228 onboardings. Without any special offers, the surge from Black Friday content and seasonal fitness/gifting trends boosted our Daily Revenue Run Rate (DRR) to $91K—up 170% from October, our last non-promo month. Strong organic demand and strategic content are clearly driving growth.
+
+![image](/Users/yagna/yagna/_posts/2024-01-11-proof-of-work.md)
+
+
 
 But this is Day 1 for the Internet and, if we execute well, for Amazon.com. Today, online commerce savescustomers money and precious time. Tomorrow, through personalization, online commerce will accelerate the very process of discovery. Amazon.com uses the Internet to create real value for its customers and, by doing so,hopes to create an enduring franchise, even in established and large markets.
+
 
 ## Lists
 
