@@ -24,7 +24,9 @@ Think about that: a human being crafting 60 unique, handwritten emails while jug
 
 That's when we discovered Gumloop, an AI tool that transformed our entire approach to email outreach. Here's what makes it revolutionary: feed it a YouTube video, and it instantly analyzes the transcript, creating a perfect summary. But that's just the beginning.
 
-The real magic happens when its AI crafts cold emails that feel genuinely personal, drawing from that deep understanding of the video content. What once took hours of human effort now happens with a single click. We didn't just increase efficiency - we completely reimagined what's possible in personalized outreach.
+The real magic happens when its AI crafts cold emails that feel genuinely personal, drawing from that deep understanding of the video content. What once took hours of human effort now happens with a single click. We didn't just increase efficiency - we completely reimagined what's possible in personalized outreach. 
+
+Something unexpected and amazing happened along the way. As we were scaling with Gumloop, we caught the attention of Nexus. I ended up talking with [Abhishek Sharma](https://www.linkedin.com/in/sharmaabhishek/) and [Aniket](https://www.linkedin.com/in/aniketkamthe/) - from Nexus who were looking at Gumloop for their Series A.
 
 The second piece that completed our onboarding puzzle was strategic follow-ups. By implementing a three-stage follow-up sequence through Rebump, we cracked another crucial code. This wasn't just about sending more emails - it was about maintaining momentum and meaningful engagement. The results were transformative: more creators not only joined the platform but stayed active and engaged.
 
