@@ -15,7 +15,7 @@ This was our hypothesis:
 
 > Scale is a byproduct of repetitions.
 
-The question was: **How do we make getting those reps easy?**
+My question was: **How do I make getting those reps easy?**
 
 
 ## Lists
