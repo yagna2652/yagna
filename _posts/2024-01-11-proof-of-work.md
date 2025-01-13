@@ -17,7 +17,7 @@ This was our hypothesis:
 
 My question was: **How do I make getting those reps easy?**
 
-Humans are rarely known for consistency - except for Prateek Bhai. To get our team performing at his level, we needed to build a level playing field. Sure, having six Prateeks would've solved everything, but we have just one. And perhaps that's for the best.
+Humans are rarely known for consistency - except for [Prateek Bhai](https://www.linkedin.com/in/prateek-kumar-047414192/). To get our team performing at his level, we needed to build a level playing field. Sure, having six Prateeks would've solved everything, but we have just one. And perhaps that's for the best.
 Working backwards from our goals, the math was clear: with a 10% onboarding rate and a monthly target of 500, we needed 5,000 outbound reaches. That's 240 reaches daily, split between four people - 60 personalized emails each. Every single day.
 Think about that: a human being crafting 60 unique, handwritten emails while juggling everything else on their plate. It wasn't just challenging; it was unsustainable. We needed to think differently.
 
@@ -25,7 +25,9 @@ That's when we discovered Gumloop, an AI tool that transformed our entire approa
 
 The real magic happens when its AI crafts cold emails that feel genuinely personal, drawing from that deep understanding of the video content. What once took hours of human effort now happens with a single click. We didn't just increase efficiency - we completely reimagined what's possible in personalized outreach.
 
-Second piece of the onboarding puzzle is follow ups.
+
+
+Second piece of the onboarding puzzle is follow ups. We were able to setup a 3 follow up sequence using Rebump that led to significant increase in creators getting onboarded and them staying activated
 
 
 
