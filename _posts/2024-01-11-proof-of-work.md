@@ -32,7 +32,7 @@ The second piece that completed our onboarding puzzle was strategic follow-ups. 
 
 When we started, we had all these small, repetitive tasks eating up our time. So we built something different - a network of Google Sheets workflows and scraping scripts. Simple systems, working together, multiplying what we could do.
 
-But here's what really changed: I started seeing every repetitive task as code waiting to be written. If something needs to be done more than once, it goes to code. Not tomorrow, not next week - now. That's become our DNA. And it's what lets us scale.
+But here's what really changed: I started seeing every repetitive task as code waiting to be written. If something needs to be done more than once, it goes to code. That's become our DNA. And it's what lets us scale.
 
 
 
