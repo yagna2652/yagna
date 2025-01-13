@@ -11,6 +11,9 @@ Our team at Ultrahuman has passed many milestones in 2024: by year-end, we have 
 
 ![Image#001: Jan Report](/assets/images/001-POW-Jan-24.png)
 
+This was our hypothesis:
+
+> Scale is a byproduct of repetitions
 
 
 ## Lists
@@ -27,12 +30,6 @@ Ordered:
 2. Sed massa quam, auctor in eros quis, porttitor tincidunt orci.
 3. Nulla convallis id sapien ornare viverra.
 4. Nam a est eget ligula pellentesque posuere.
-
-## Blockquote
-
-The following is a blockquote:
-
-> Suspendisse tempus dolor nec risus sodales posuere. Proin dui dui, mollis a consectetur molestie, lobortis vitae tellus.
 
 ## Thematic breaks (<hr>)
 
