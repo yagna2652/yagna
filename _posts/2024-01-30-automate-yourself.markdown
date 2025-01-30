@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Automating yourself out of a job"
-date:   2024-1-11 14:28:36 +0530
+date:   2024-30-1 14:28:36 +0530
 categories: misc
 ---
 
@@ -29,10 +29,6 @@ At a startup you may in fact make up an entire team or department yourself. Whet
 ### Off-peak thinking#
 
 Show up early and stay late so that you can focus on automation and scripting. Off-hours time will provide a quiet environment to think about things at a higher level, without interruption from the stressful, time sensitive tasks you are trying to automate.
-
-### Volunteer#
-
-Show you are willing to tackle new problems and opportunities and follow through on them. Any extra project or responsibility is a proving ground. A willingness to take on new responsibilities shows ambition and risk-taking, but also that you’ve already planned for them.Embracing a new challenge means that you will have no choice but to make room for it. Find something you are interested in and start working on it. This is not necessarily an existing role or opening position. Find projects you are genuinely interested in or that fit a need you’ve found in your business. You will not step on anyone’s toes by working on a side project. Instead you may stumble onto a new product or unexplored area of the business.
 
 ### Share#
 
