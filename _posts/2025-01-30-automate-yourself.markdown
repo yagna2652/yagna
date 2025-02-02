@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Automating yourself out of a job"
-date:   2024-30-1 14:28:36 +0530
+date:   2025-30-1 14:28:36 +0530
 categories: misc
 ---
 
