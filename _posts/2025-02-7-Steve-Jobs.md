@@ -6,3 +6,6 @@ categories: misc
 ---
 
 I have been reading a shit ton about Steve Jobs, using this page to share all of my findings about him.
+
+
+![Image#001: Jan Report](/assets/images/002-SJ1.jpeg)
