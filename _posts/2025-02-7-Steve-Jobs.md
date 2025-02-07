@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Steve Jobs"
-date:   2024-2-07 2:44 +0
+date:   2025-2-07 2:44 +0
 categories: misc
 ---
 
