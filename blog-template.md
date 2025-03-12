@@ -1,6 +1,6 @@
 ---
 layout: post
-title: {{title}}
+title: {{VALUE}}
 date: {{date:YYYY-MM-DD}}
 categories: 
 tags: 

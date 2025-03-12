@@ -11,10 +11,14 @@
             "id": "ce311e46fb9c5e66",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "2025-02-7-Test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-02-7-Test"
             }
           }
         ]
@@ -158,19 +162,25 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "ce311e46fb9c5e66",
   "lastOpenFiles": [
+    "2025-02-7-Steve-Jobs.md",
+    "2025-02-7-Test.md",
+    "2025-03-12-Test.md",
+    "Untitled.canvas",
+    "templates/Untitled.md",
+    "templates",
+    "templates",
     "2024-10-08-smoking.md",
     "2024-09-27-working-notes-of-things-i-want-to-write-about.md",
     "2024-09-16-second-hand-life.md",
     "2024-07-11-the-best-post-i-read-somewhere.md",
     "conciousness/Welcome.md",
     "conciousness",
-    "Untitled.canvas",
-    "Untitled",
     "2024-01-11-proof-of-work.md",
     "Untitled 1"
   ]
