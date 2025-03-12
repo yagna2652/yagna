@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-03-12-test.md",
+                "file": "2025-03-12-The Brutalist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-12-test"
+              "title": "2025-03-12-The Brutalist"
             }
           }
         ]
@@ -168,9 +168,9 @@
   },
   "active": "ce311e46fb9c5e66",
   "lastOpenFiles": [
-    "2025-02-7-Test.md",
-    "2025-03-12-test.md",
     "2025-02-7-Steve-Jobs.md",
+    "2025-03-12-The Brutalist.md",
+    "2025-02-7-Test.md",
     "2025-03-12-Test.md",
     "Untitled.canvas",
     "templates/Untitled.md",
