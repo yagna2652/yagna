@@ -11,14 +11,10 @@
             "id": "ce311e46fb9c5e66",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-02-7-Test.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-02-7-Test"
+              "title": "New tab"
             }
           }
         ]
@@ -166,7 +162,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce311e46fb9c5e66",
+  "active": "5fca916a38f4967f",
   "lastOpenFiles": [
     "2025-02-7-Steve-Jobs.md",
     "2025-02-7-Test.md",
