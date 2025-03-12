@@ -11,10 +11,14 @@
             "id": "ce311e46fb9c5e66",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2025-03-12-test.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-03-12-test"
             }
           }
         ]
@@ -162,10 +166,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5fca916a38f4967f",
+  "active": "ce311e46fb9c5e66",
   "lastOpenFiles": [
-    "2025-02-7-Steve-Jobs.md",
     "2025-02-7-Test.md",
+    "2025-03-12-test.md",
+    "2025-02-7-Steve-Jobs.md",
     "2025-03-12-Test.md",
     "Untitled.canvas",
     "templates/Untitled.md",

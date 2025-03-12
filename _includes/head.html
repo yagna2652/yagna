@@ -11,6 +11,7 @@
     {%- endif -%}
   </title>
 
+  {% assign page_date = page.date | default: nil %}
   {%-seo title=false-%}
   {%-feed_meta-%}
 
