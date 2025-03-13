@@ -16,23 +16,21 @@ entries:
 
   - title: Misc
     post_list:
-      cateogry: misc
+      category: misc
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
- - title: Work related
+
+  - title: Work related
     post_list:
       category: sauce
       show_more: true
       show_more_text: See more posts...
       show_more_url: sauce-archive.html
-- title: all posts
+
+  - title: all posts
     post_list:
       limit: 5
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
-
-
-  
-  
