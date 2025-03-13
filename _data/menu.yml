@@ -14,19 +14,25 @@ entries:
       - title: POW
         url: https://yagna.site/sauce/2024/01/11/proof-of-work  
 
-  - title: all posts
+  - title: Misc
     post_list:
-      limit: 5
+      cateogry: misc
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
-
-  - title: posts by category
+ - title: Work related
     post_list:
       category: sauce
       show_more: true
       show_more_text: See more posts...
       show_more_url: sauce-archive.html
+  
+- title: all posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
 
 
   

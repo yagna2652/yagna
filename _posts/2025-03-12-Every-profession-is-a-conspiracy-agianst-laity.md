@@ -25,6 +25,9 @@ If A is narrow professional doctrine and B consists of the big, extra-useful con
 My second question is so easy to answer that I won’t give it much time. Our education was far too unidisciplinary. Broadscale problems, by definition, cross many academic disciplines. Accordingly, using a unidisciplinary attack on such problems is like playing a bridge hand by counting trumps while ignoring all else. This is bonkers, sort of like the Mad Hatter’s tea party.242 But nonetheless, too much that is similar remains present in professional practice and, even worse, has long been encouraged in isolated departments of soft science, defined as everything less fundamental than biology."
 
 
+"First, the concept of “all needed skills” lets us recognize that we don’t have to raise everyone’s skill in celestial mechanics to that of [Pierre-Simon] Laplace246 and also ask everyone to achieve a similar skill level in all other knowledge. Instead, it turns out that the truly big ideas in each discipline, learned only in essence, carry most of the freight. And they are not so numerous, nor are their interactions so complex, that a large and multidisciplinary understanding is impossible for many, given large amounts of talent and time."
+
+
 
 
 
