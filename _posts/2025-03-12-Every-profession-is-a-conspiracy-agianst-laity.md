@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Every profession is a conspiracy against laity
-date: 2025-2-07 2:44 +0
+date: 2025-3-13 2:44 +0
 categories: misc
 ---
 
 
-**From Poor Charlie's Almanack**
+***From Poor Charlie's Almanack***
 
 "We start with the question: Do broadscale professionals need more multidisciplinary skill?
 
