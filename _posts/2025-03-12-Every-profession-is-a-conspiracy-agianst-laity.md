@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Brutalist
+title: Every profession is a conspiracy against laity
 date: 2025-2-07 2:44 +0
 categories: misc
 ---
