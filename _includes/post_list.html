@@ -11,9 +11,10 @@
 {%-endif-%}
 
 {%- if posts.size > 0 -%}
-  <ul>
+  <ul class="post-list">
     {%- for post in posts limit: include.limit -%}
-        <li>
+        {%- assign post_date = post.date | date: '%Y-%m-%d' -%}
+        <li class="post-item" data-date="{{ post_date }}">
           <span>{{- post.date | date: site.theme_config.date_format -}}</span>
           <a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a>
         </li>

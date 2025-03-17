@@ -1,0 +1,33 @@
+{%- comment -%}
+  This include creates a calendar showing dates with posts
+  and allows filtering posts by date
+{%- endcomment -%}
+
+{%- if site.posts.size > 0 -%}
+  {%- assign post_dates = '' | split: '' -%}
+  {%- for post in site.posts -%}
+    {%- assign post_date = post.date | date: '%Y-%m-%d' -%}
+    {%- assign post_dates = post_dates | push: post_date -%}
+  {%- endfor -%}
+
+  <div class="post-calendar-container">
+    <div class="calendar-header">
+      <div class="calendar-nav">
+        <button id="prev-month">&lt;</button>
+      </div>
+      <h3 id="calendar-month-year"></h3>
+      <div class="calendar-nav">
+        <button id="next-month">&gt;</button>
+      </div>
+    </div>
+    
+    <div id="post-calendar" data-post-dates="{{ post_dates | jsonify }}">
+      <div id="calendar-grid"></div>
+    </div>
+    
+    <div class="filter-controls">
+      <span id="date-filter-indicator"></span>
+      <button id="reset-filter">Show All Posts</button>
+    </div>
+  </div>
+{%- endif -%}
