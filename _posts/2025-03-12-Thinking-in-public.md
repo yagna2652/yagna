@@ -10,6 +10,9 @@ What if there were niche d2c marketplaces that also offer well researched edits 
 
 Rough go to market play — 1. Hire editors and legit researchers with taste 2. Retain editorial freedom at any cost 3. Do extensive tests to back up product claims you make in your recommendations 4. Use social media, particularly X/Twitter and IG to talk about why your editors liked what they liked. Make each test result searchable and public, free for all 5. Build your authority with taste and solid research creds 5.1 Take listing fee + commission for each sale you generate for products you recommend 5.2 Charge certain annual fee to brands that want to use your badge 5.3 You can build a membership with perks once you have a sizable audience base
 
+Will have a chrome extension that will take in all the details for a user and whenever user goes to a website runs the extension automatically gets everything that would fit to the person.
+
+
 
 
 
