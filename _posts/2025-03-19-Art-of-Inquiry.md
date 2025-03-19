@@ -14,6 +14,8 @@ categories: misc
 - Patience is not about waiting; it is giving us the time we need to think seriously in the hope of extricating ourselves from this sense of confusion. Without patience, there is no 'slipping the trap, let alone 'turning the key? Patience seems, if not to be the act itself, then to be the condition of possibil-ity for focusing our attention on broader questions. Being patient, I am not attending to this design flaw (let's say: I'm not 'troubleshooting'), this disagreement between co-workers, or this instance of poor communication. I am concerned with the relationship between this design flaw and design more generally; with the nature of amity within this organization; or with the nature and structure of communication.
 
 -  Courage invites us to stand firm in the face of fear. In this way, it introduces us to a set of important questions we need to ask about ourselves. What is it that we are afraid of? Is this something worth being afraid of?  Are we strong enough to endure a time in which things do not make sense to us?  If we have asked the right question (about which more in the following chapter), do we have what it takes to ‘see the question through to the end’? For how long can we put ourselves into this project?
+  
+  - The third and the final virtue which is vital for living through a time of great confusion is openness. Few are willing to start over. Especially the ones on the career path. They belei
 
 
 
