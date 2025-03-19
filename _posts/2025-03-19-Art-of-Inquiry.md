@@ -15,7 +15,7 @@ categories: misc
 
 -  Courage invites us to stand firm in the face of fear. In this way, it introduces us to a set of important questions we need to ask about ourselves. What is it that we are afraid of? Is this something worth being afraid of?  Are we strong enough to endure a time in which things do not make sense to us?  If we have asked the right question (about which more in the following chapter), do we have what it takes to ‘see the question through to the end’? For how long can we put ourselves into this project?
   
-  - The third and the final virtue which is vital for living through a time of great confusion is openness. Few are willing to start over. Especially the ones on the career path. They believe that
+  - The third and the final virtue which is vital for living through a time of great confusion is openness. Few are willing to start over. Especially the ones on the career path. They believe that there are stepping stones that are laid out by some institution and which they must follow. 
 
 
 
