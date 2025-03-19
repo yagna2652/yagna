@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Art of Inquiry
-date: 2025-3-19 2:44 +0
 categories: misc
 ---
 - The first moment, a confrontation with our thinking in general, leads us to a second moment, a realization that the old way is foreclosed. The third moment is the leading onto a ‘space of possibilities.’ That is to say, we make the transition from a ‘space of actuality’ concerning how things have to be into a space in which novel possibilities are revealed to us. My life or my role in this organization, not having to head one way anymore, might now head in any number of fruitful (or unfruitful) directions. In this instant, there is exhilaration as well as caution, bewilderment as well as curiosity.
@@ -11,6 +10,8 @@ categories: misc
 - We can say that being virtuous is performing an action over and over again in the right way (manner) for the right reason (justification) for the right end (final cause). 
   
 - Whatever their differences may be, these definitions share the characteristic of manner, way, fashion, and appropriateness. A virtuous man does not simply offer a guest tea. He does so in the right manner. A compassionate woman smiles at the hurt one and puts her hand on him with lightness and strength. There is thus a felt quality to a virtue that can only be experienced ‘from within.’
+  
+  - Patience is not about waiting; it is giving us the time we need to think seriously in the hope of extricating ourselves from this sense of confusion. Without patience, there is no 'slipping the trap, let alone 'turning the key? Patience seems, if not to be the act itself, then to be the condition of possibil-ity for focusing our attention on broader questions. Being patient, I am not attending to this design flaw (let's say: I'm not 'troubleshooting'), this disagreement between co-workers, or this instance of poor communication. I am concerned with the relationship between this design flaw and design more generally; with the nature of amity within this organization; or with the nature and structure of communication.
 
 
 
