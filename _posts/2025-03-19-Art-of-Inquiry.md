@@ -9,6 +9,10 @@ categories: misc
 - To be bewildered, he writes in Dr. Johnson’s Dictionary, is to ‘lose in pathless places, to confound for want of a plain road.’ The bewildered person, having been led astray, is lost, turned about, and disoriented, generally lacking a good sense of his bearings. By letting his basic commitments to be drawn into question, he has lost his place in the world. What is of great value? To what can one assign significance? What sign points the way forward?
 
 - We can say that being virtuous is performing an action over and over again in the right way (manner) for the right reason (justification) for the right end (final cause). 
+  
+- Whatever their differences may be, these definitions share the characteristic of manner, way, fashion, and appropriateness. A virtuous man does not simply offer a guest tea. He does so in the right manner. A compassionate woman smiles at the hurt one and puts her hand on him with lightness and strength. There is thus a felt quality to a virtue that can only be experienced ‘from within.’
+
+
 
 
 
