@@ -20,13 +20,13 @@ categories: misc
 - Patience slows you down. Courage moves you along. Openeness points you to novel directions.
   
   
-  A question that goes no where in inquiry:
+  A bad question will arrive at:
   
-- 1. that it 'arrives' at doxa, i.e., at common sense. Someone concludes that this is what everyone believes; this is (just) the way we do things here; that this is how things have always been; this is what is commonly held to be true. The problem with common sense is that it cannot take us any- where-into an inquiry into what we do not know but would like to understand. 
+- at doxa, i.e., at common sense. Someone concludes that this is what everyone believes; this is (just) the way we do things here; that this is how things have always been; this is what is commonly held to be true. The problem with common sense is that it cannot take us any- where-into an inquiry into what we do not know but would like to understand. 
   
-  2.that it 'arrives' at stuckness. The inquirer feels stuck because he senses that he has reached these conclusions before. The person who is stuck believes that there is only A or B (etc.) and neither is palatable. Stuckness suggests that, in truth, the inquirer went nowhere, only repeating or rehears-ing what he had already thought before. The stuck person is perhaps doing no more than register-ing his dissatisfaction. I'm not sure that I would count this genre as thinking.
+  at stuckness. The inquirer feels stuck because he senses that he has reached these conclusions before. The person who is stuck believes that there is only A or B (etc.) and neither is palatable. Stuckness suggests that, in truth, the inquirer went nowhere, only repeating or rehears-ing what he had already thought before. The stuck person is perhaps doing no more than register-ing his dissatisfaction. I'm not sure that I would count this genre as thinking.
   
-  3.that it 'arrives' at discord, creating a sense of dissonance. I may say that conclusion P is true but I don't want to believe it (cognitive dissonance). E.g., climate change is adversely impacting devel-oping nations, but I don't want to believe that my energy use matters. Or I may say that I should do Q but I don't want to do that (volitional dissonance). E.g., the company is losing profits, but I don't want to lay off workers.
+  at discord, creating a sense of dissonance. I may say that conclusion P is true but I don't want to believe it (cognitive dissonance). E.g., climate change is adversely impacting devel-oping nations, but I don't want to believe that my energy use matters. Or I may say that I should do Q but I don't want to do that (volitional dissonance). E.g., the company is losing profits, but I don't want to lay off workers.
 
 
 
