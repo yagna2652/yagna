@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thinking in Public
+title: Art of Inquiry
 date: 2025-3-13 2:44 +0
 categories: misc
 ---
