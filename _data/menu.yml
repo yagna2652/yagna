@@ -20,8 +20,16 @@ entries:
       show_more: true
       show_more_text: See more posts...
       show_more_url: sauce-archive.html
+  - title: design
+    post_list:
+      limit: 5
+      category: design
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
   - title: Misc
     post_list:
+      limit: 3
       category: misc
       show_more: true
       show_more_text: See archive...
