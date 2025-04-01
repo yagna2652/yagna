@@ -21,6 +21,8 @@ Our targets were clear - with a 10% conversion rate and 500 monthly sign-ups nee
 
 I built a solution using Gumloop that changed everything. The workflow takes YouTube videos, pulls and transcribes the content, then summarizes it - giving us perfect material for personalized outreach. What used to take hours happens with one click.
 
+We didn't stop there. Even our ongoing creator communications needed automation. We built an email reply flow using Gumloop that analyzes entire email threads, pulls relevant creator data from our sheets, and crafts contextual responses. No more generic templates - our team could now maintain personalized conversations at scale without the manual effort.
+
 Something unexpected happened during this process. Our scaling caught Nexus's attention. I found myself talking with Abhishek (https://www.linkedin.com/in/sharmaabhishek/) and Aniket ((https://www.linkedin.com/in/aniketkamthe/)) who were evaluating Gumloop for their Series A.
 
 We also fixed our follow-up problem. Using Rebump for a three-stage sequence kept conversations alive and meaningful. The results spoke for themselves - more creators joined and actually stayed active.
