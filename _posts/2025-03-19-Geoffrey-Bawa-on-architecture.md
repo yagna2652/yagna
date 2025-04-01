@@ -4,9 +4,7 @@ title: Geoffrey Bawa on architecture
 categories: misc
 ---
 
-
-
-
+![[Geoffrey Bawa.png]]
 
 Sri Lankan architect, Goeffrey Bawa, is known for his incredible [body](http://www.geoffreybawa.com/work/the-early-years-contemporary-vernacular) [of work](http://www.geoffreybawa.com/lunuganga-country-estate/introductionpage), and for his approach of designing in context.
 
