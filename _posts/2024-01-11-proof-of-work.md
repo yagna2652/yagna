@@ -15,25 +15,19 @@ This was our hypothesis:
 
 > Scale is a byproduct of repetitions.
 
-My question was: **How do I make getting those reps easy?**
+We had a problem to solve: How do you match Prateek's((https://www.linkedin.com/in/prateek-kumar-047414192/)) consistency across our entire team?
 
-Humans are rarely known for consistency - except for [Prateek Bhai](https://www.linkedin.com/in/prateek-kumar-047414192/). To get our team performing at his level, we needed to build a level playing field. Sure, having six Prateeks would've solved everything, but we have just one. And perhaps that's for the best.
+Our targets were clear - with a 10% conversion rate and 500 monthly sign-ups needed, we had to reach 5,000 prospects each month. That meant 240 personalized outreaches daily split between four team members. Sixty unique emails per person, every day, while handling everything else. It wasn't working.
 
-Working backwards from our goals, the math was clear: with a 10% onboarding rate and a monthly target of 500, we needed 5,000 outbound reaches. That's 240 reaches daily, split between four people - 60 personalized emails each. Every single day.
-Think about that: a human being crafting 60 unique, handwritten emails while juggling everything else on their plate. It wasn't just challenging; it was unsustainable. We needed to think differently.
+I built a solution using Gumloop that changed everything. The workflow takes YouTube videos, pulls and transcribes the content, then summarizes it - giving us perfect material for personalized outreach. What used to take hours happens with one click.
 
-That's when we discovered Gumloop, an AI tool that transformed our entire approach to email outreach. Here's what makes it revolutionary: feed it a YouTube video, and it instantly analyzes the transcript, creating a perfect summary. But that's just the beginning.
+Something unexpected happened during this process. Our scaling caught Nexus's attention. I found myself talking with Abhishek (https://www.linkedin.com/in/sharmaabhishek/) and Aniket ((https://www.linkedin.com/in/aniketkamthe/)) who were evaluating Gumloop for their Series A.
 
-The real magic happens when its AI crafts cold emails that feel genuinely personal, drawing from that deep understanding of the video content. What once took hours of human effort now happens with a single click. We didn't just increase efficiency - we completely reimagined what's possible in personalized outreach. 
+We also fixed our follow-up problem. Using Rebump for a three-stage sequence kept conversations alive and meaningful. The results spoke for themselves - more creators joined and actually stayed active.
 
-Something unexpected and amazing happened along the way. As we were scaling with Gumloop, we caught the attention of Nexus. I ended up talking with [Abhishek Sharma](https://www.linkedin.com/in/sharmaabhishek/) and [Aniket](https://www.linkedin.com/in/aniketkamthe/) - from Nexus who were looking at Gumloop for their Series A.
+When we started, tedious tasks were eating our productivity. We built a network of Google Sheets workflows and countless web elements scrapers that multiplied our capabilities. For example, we integrated Assembly AI's speech-to-text API directly into our sheets to transcribe TikTok videos, which we then used to generate tailored cold emails for TikTok creators. We also built a tool using Gumloop that analyzed and scored our creator relationships, giving us clear visibility into which partnerships needed attention.
 
-The second piece that completed our onboarding puzzle was strategic follow-ups. By implementing a three-stage follow-up sequence through Rebump, we cracked another crucial code. This wasn't just about sending more emails - it was about maintaining momentum and meaningful engagement. The results were transformative: more creators not only joined the platform but stayed active and engaged.
-
-When we started, we had all these small, repetitive tasks eating up our time. So we built something different - a network of Google Sheets workflows and scraping scripts. Simple systems, working together, multiplying what we could do.
-
-But here's what really changed: I started seeing every repetitive task as code waiting to be written. If something needs to be done more than once, it goes to code. That's become our DNA. And it's what lets us scale.
-
+The biggest shift wasn't the tools - it was our mindset. Now anything repetitive becomes code. That's become our team's operating principle, and it's what allows us to scale.
 
 
 
