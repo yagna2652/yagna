@@ -1,0 +1,78 @@
+/* Custom styles */
+body, html, h1, h2, h3, h4, h5, h6, p, li, a, code, pre {
+  font-family: 'JetBrains Mono', monospace !important;
+}
+
+body, html {
+  font-weight: 400;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+}
+
+code, pre {
+  font-weight: 500;
+}
+
+/* Spacing improvements */
+.w {
+  padding: 6rem 2rem; /* Increased top/bottom padding */
+}
+
+/* Add space between main sections */
+.w > ul > li {
+  margin-bottom: 24px; /* Space between main sections */
+}
+
+/* Increase spacing before section headers but less than before */
+.w > ul > li + li {
+  margin-top: 32px; /* Increased from 16px to 32px */
+}
+
+/* Space between section title and its content */
+.w > ul > li > ul {
+  margin-top: 16px;
+}
+
+/* Special spacing for last items in sections */
+.w > ul > li > ul > li:last-child {
+  margin-bottom: 24px; /* Increased bottom margin for last elements in sections */
+}
+
+/* Style for list items */
+ul {
+  padding-left: 20px; /* Give some breathing room to the left */
+}
+
+/* Reduce spacing within sections */
+li {
+  margin: 8px 0; /* Reduced vertical spacing for list items */
+}
+
+/* Nested lists spacing */
+li > ul {
+  margin-top: 8px; /* Reduced spacing */
+  margin-bottom: 16px; /* Increased bottom margin */
+}
+
+/* Adjust spacing for items within a section */
+li > ul > li {
+  margin: 4px 0; /* Further reduced spacing for nested items */
+}
+
+/* Last item in a list should have more bottom margin */
+li > ul > li:last-child {
+  margin-bottom: 16px;
+}
+
+/* Links styling */
+a {
+  padding: 2px 0;
+}
+
+/* Improved heading spacing */
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 24px; /* Reduced from 32px */
+  margin-bottom: 16px;
+} 
