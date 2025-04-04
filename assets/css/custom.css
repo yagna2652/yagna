@@ -3,16 +3,83 @@ body, html, h1, h2, h3, h4, h5, h6, p, li, a, code, pre {
   font-family: 'JetBrains Mono', monospace !important;
 }
 
+/* Base layout */
+.w {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 5rem 2rem;
+}
+
+/* Typography weights */
 body, html {
   font-weight: 400;
+  line-height: 1.6;
+  font-size: 16px;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
 }
 
-code, pre {
+/* Primary section spacing (Hi there, Work related, etc.) */
+.w > ul > li {
+  margin-bottom: 2.5rem; /* 40px space between main sections */
+}
+
+/* First-level list items (main section titles) */
+.w > ul > li {
+  padding: 0.25rem 0; /* Small padding for the section titles */
+}
+
+/* Space between first-level list items and their nested content */
+.w > ul > li > ul {
+  margin-top: 0.75rem; /* 12px space after section title */
+  margin-bottom: 1rem; /* 16px space after section content */
+}
+
+/* Second-level list items (content within sections) */
+.w > ul > li > ul > li {
+  margin: 0.5rem 0; /* 8px space between items within a section */
+}
+
+/* Indentation for lists */
+ul {
+  padding-left: 1.5rem;
+  margin: 0;
+}
+
+/* Links */
+a {
+  color: #6db33f; /* A nice green color */
+  text-decoration: underline;
+  text-underline-offset: 0.15em; /* Better underline positioning */
+}
+
+a:hover {
+  text-decoration: none;
+  background-color: rgba(109, 179, 63, 0.1); /* Light green highlight on hover */
+}
+
+/* Code styling */
+code {
   font-weight: 500;
+  padding: 0.125rem 0.25rem;
+  border-radius: 3px;
+}
+
+/* Site title */
+.w > h1 {
+  margin-bottom: 3rem;
+}
+
+/* Bullet points */
+ul > li::marker {
+  color: #6db33f; /* Green bullet points */
+}
+
+/* Date formatting */
+.w > ul > li > ul > li::before {
+  color: #888; /* Subtle color for dates */
 }
 
 /* Spacing improvements */
@@ -64,11 +131,6 @@ li > ul > li {
 /* Last item in a list should have more bottom margin */
 li > ul > li:last-child {
   margin-bottom: 16px;
-}
-
-/* Links styling */
-a {
-  padding: 2px 0;
 }
 
 /* Improved heading spacing */
