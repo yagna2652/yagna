@@ -20,7 +20,7 @@ body[a="dark"] { @include dark-appearance; }
 // see: https://stackoverflow.com/a/61265706
 html, body { 
   background: white;
-  font-family: "JetBrains Mono", monospace;
+  font-family: "JetBrains Mono", monospace !important;
   font-optical-sizing: auto;
   font-weight: 500;
   font-style: normal;
@@ -31,7 +31,7 @@ html { height: 100%; }
 body {
   color: black;
   font-size: 16px;
-  line-height: 1.6;
+  line-height: 1.4;
   margin: 0;
   min-height: 100%;
   overflow-wrap: break-word;
@@ -53,18 +53,14 @@ p, li, a {
 
 .post-meta { text-align: right; }
 
-h2, h3, h4, h5, h6 { margin-top: 24px; }
+h2, h3, h4, h5, h6 { margin-top: 3rem; }
 
 hr { margin: 2rem 0; }
-
-p { margin: 1rem 0; }
-
-li { margin: 0.5rem 0; }
 
 *:target { background: yellow; }
 
 .w {
-  max-width: 700px;
+  max-width: 640px;
   margin: 0 auto;
   padding: 4rem 2rem;
 }
