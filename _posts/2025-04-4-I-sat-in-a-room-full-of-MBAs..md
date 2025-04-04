@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Geoffrey Bawa on architecture
+title: I sat in a room full of MBAs
 categories: misc
 ---
 

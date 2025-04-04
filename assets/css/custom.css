@@ -22,22 +22,22 @@ code, pre {
 
 /* Add space between main sections */
 .w > ul > li {
-  margin-bottom: 24px; /* Space between main sections */
+  margin-bottom: 36px; /* Increased space between main sections */
 }
 
-/* Increase spacing before section headers but less than before */
+/* Increase spacing before section headers */
 .w > ul > li + li {
-  margin-top: 32px; /* Increased from 16px to 32px */
+  margin-top: 24px; /* Increased from 16px to 24px */
 }
 
 /* Space between section title and its content */
 .w > ul > li > ul {
-  margin-top: 16px;
+  margin-top: 4px; /* Reduced from 16px to 8px */
 }
 
 /* Special spacing for last items in sections */
 .w > ul > li > ul > li:last-child {
-  margin-bottom: 24px; /* Increased bottom margin for last elements in sections */
+  margin-bottom: 16px; /* Reduced bottom margin for last elements */
 }
 
 /* Style for list items */
@@ -73,6 +73,6 @@ a {
 
 /* Improved heading spacing */
 h1, h2, h3, h4, h5, h6 {
-  margin-top: 24px; /* Reduced from 32px */
+  margin-top: 16px; /* Reduced from 24px to 16px */
   margin-bottom: 16px;
 } 
