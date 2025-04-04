@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I sat in a room full of MBAs
+title: BV Doshi on Architecture
 categories: misc
 ---
 
