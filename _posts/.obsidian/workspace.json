@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-04-4-BV-Doshi-on-architecture.md",
+                "file": "2025-04-4-BV-Doshi-on-architecture 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-4-BV-Doshi-on-architecture"
+              "title": "2025-04-4-BV-Doshi-on-architecture 1"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-04-4-BV-Doshi-on-architecture.md",
+                "file": "2025-04-4-BV-Doshi-on-architecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-04-4-BV-Doshi-on-architecture"
+              "title": "Backlinks for 2025-04-4-BV-Doshi-on-architecture 1"
             }
           },
           {
@@ -168,8 +168,9 @@
   },
   "active": "ce311e46fb9c5e66",
   "lastOpenFiles": [
-    "2025-03-19-Geoffrey-Bawa-on-architecture.md",
     "2025-04-4-BV-Doshi-on-architecture.md",
+    "2025-04-4-BV-Doshi-on-architecture 1.md",
+    "2025-03-19-Geoffrey-Bawa-on-architecture.md",
     "assets/img/Geoffrey Bawa.png",
     "assets/img",
     "assets",
