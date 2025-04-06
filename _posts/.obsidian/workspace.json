@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -141,15 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2025-04-4-Fountainhead.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2025-04-4-Fountainhead"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -169,6 +172,7 @@
   "active": "ce311e46fb9c5e66",
   "lastOpenFiles": [
     "2025-04-4-BV-Doshi-on-architecture.md",
+    "Untitled.canvas",
     "2025-04-4-Fountainhead.md",
     "2025-03-19-Geoffrey-Bawa-on-architecture.md",
     "assets/img/Geoffrey Bawa.png",
@@ -181,7 +185,6 @@
     "2025-03-12-Every-profession-is-a-conspiracy-agianst-laity.md",
     "2025-02-7-Test.md",
     "2025-03-12-Test.md",
-    "Untitled.canvas",
     "templates/Untitled.md",
     "templates",
     "templates",
