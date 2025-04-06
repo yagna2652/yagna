@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2025-04-4-Fountainhead.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2025-04-4-Fountainhead"
             }
           },
           {
@@ -140,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
+                "file": "2025-04-4-Fountainhead.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of 2025-04-4-Fountainhead"
             }
           }
         ],
@@ -167,12 +168,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5fca916a38f4967f",
+  "active": "ce311e46fb9c5e66",
   "lastOpenFiles": [
-    "2025-04-4-Fountainhead.md",
-    "Untitled.md",
-    "2025-04-4-BV-Doshi-on-architecture.md",
     "Untitled.canvas",
+    "Untitled.md",
+    "2025-04-4-Fountainhead.md",
+    "2025-04-4-BV-Doshi-on-architecture.md",
     "2025-03-19-Geoffrey-Bawa-on-architecture.md",
     "assets/img/Geoffrey Bawa.png",
     "assets/img",
