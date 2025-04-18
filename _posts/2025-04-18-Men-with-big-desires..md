@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes to Self
+title: Men with big desires
 categories: misc
 ---
 I get off my bed and put my less sophisticated glasses on. These are the frames I wear when I want to feel deliberately unpolished. There's something about looking messy on a Friday afternoon that feels like quiet rebellion against the week's accumulated respectability. I pick up Fountainhead from my desk. This is the only tome that extends beyond 300 pages that hasn't been abandoned to dust.  
