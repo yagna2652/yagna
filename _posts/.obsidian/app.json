@@ -2,6 +2,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "_posts",
   "attachmentFolderPath": "/assets/img",
-  "vimMode": true,
+  "vimMode": false,
   "tabSize": 4
 }
