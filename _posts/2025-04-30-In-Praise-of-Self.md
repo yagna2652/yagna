@@ -3,6 +3,8 @@ layout: post
 title: In praise of Self
 categories: misc
 ---
+==*The following is a text from Fountainhead*==
+
 Thousands of years ago, the first man discovered how to make fire. He was probably burned at the stake he had taught his brothers to light. He was considered an evildoer who had dealt with a demon mankind dreaded. But thereafter men had fire to keep them warm, to cook their food, to light their caves. He had left them a gift they had not conceived and he had lifted darkness off the earth. Centuries later, the first man invented the wheel. He was probably torn on the rack he had taught his brothers to build. He was considered a transgressor who ventured into forbidden territory. But thereafter, men could travel past any horizon. He had left them a gift they had not conceived and he had opened the roads of the world.
 That man, the unsubmissive and first, stands in the opening chapter of every legend mankind has recorded about its beginning. Prometheus was chained to a rock and torn by vultures - because he had stolen the fire of the gods. Adam was condemned to suffer - because he had eaten the fruit of the tree of knowledge. Whatever the legend, somewhere in the shadows of its memory mankind knew that its glory began with one and that that one paid for his courage.
 
