@@ -1,6 +1,11 @@
 /* Custom styles */
-body, html, h1, h2, h3, h4, h5, h6, p, li, a, code, pre {
+body, html, p, li, a, code, pre {
   font-family: 'JetBrains Mono', monospace !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Arapey', serif !important;
+  font-style: italic;
 }
 
 body, html {
