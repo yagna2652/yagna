@@ -6,6 +6,7 @@ body, html, p, li, a, code, pre {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Arapey', serif !important;
   font-style: italic;
+  letter-spacing: -0.08em;
 }
 
 body, html {
