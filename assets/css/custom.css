@@ -1,12 +1,47 @@
 /* Custom styles */
 body, html, p, li, a, code, pre {
   font-family: 'JetBrains Mono', monospace !important;
+  color: #71717a !important; /* Tailwind zinc-500 */
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Arapey', serif !important;
   font-style: italic;
   letter-spacing: -0.08em;
+  background-image: url('/assets/images/Shinkai.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white !important;
+  padding: 1rem 1.5rem;
+  margin: 2rem -1.5rem;
+  border-radius: 8px;
+  display: inline-block;
+  min-width: 200px;
+  text-align: center;
+  line-height: 1.2;
+  list-style: none !important;
+  list-style-type: none !important;
+}
+
+h1::before, h1::after,
+h2::before, h2::after,
+h3::before, h3::after,
+h4::before, h4::after,
+h5::before, h5::after,
+h6::before, h6::after {
+  content: none !important;
+  display: none !important;
+}
+
+/* Reposition the back link dots */
+body a[href="/"] {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  font-size: 0.8rem;
+  opacity: 0.6;
+  z-index: 10;
 }
 
 body, html {
