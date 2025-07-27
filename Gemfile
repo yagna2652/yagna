@@ -34,4 +34,7 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "no-style-please"
 
-ruby '3.2.2'
+# Add missing gems for Ruby 3.4+ compatibility
+gem "csv"
+gem "logger"
+gem "base64"
