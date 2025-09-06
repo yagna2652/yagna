@@ -495,6 +495,16 @@ label.margin-toggle:not(.sidenote-number) {
     margin-bottom: 8rem !important;
 }
 
+/* Remove extra spacing within profile links */
+.intro-section + .menu-list {
+    margin-top: 0 !important;
+}
+
+.intro-section + .menu-list li {
+    margin-bottom: 0.2rem !important;
+    margin-top: 0 !important;
+}
+
 /* Add space before posts section */
 .posts-section {
     margin-top: 4rem !important;
