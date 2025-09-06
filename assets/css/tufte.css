@@ -545,3 +545,27 @@ li {
     list-style-type: decimal !important;
     list-style: decimal !important;
 }
+
+/* Add numbers to archive page posts */
+body:has(h1:contains("Archive")) section ul,
+section:has(h1:contains("Archive")) ul {
+    list-style-type: decimal !important;
+    list-style: decimal !important;
+}
+
+body:has(h1:contains("Archive")) section ul li,
+section:has(h1:contains("Archive")) ul li {
+    list-style-type: decimal !important;
+    list-style: decimal !important;
+}
+
+/* Alternative approach - target archive page specifically */
+article section h1 + ul {
+    list-style-type: decimal !important;
+    list-style: decimal !important;
+}
+
+article section h1 + ul li {
+    list-style-type: decimal !important;
+    list-style: decimal !important;
+}
