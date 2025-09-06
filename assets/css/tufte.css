@@ -486,28 +486,30 @@ label.margin-toggle:not(.sidenote-number) {
 
 /* Custom home page styling */
 .menu-list {
-    list-style-type: none !important;
-    list-style: none !important;
+    list-style-type: decimal !important;
+    list-style: decimal !important;
 }
 
-/* Add space after introduction section */
+/* Reduce space between Thoreau quote and social links */
 .intro-section {
-    margin-bottom: 8rem !important;
+    margin-bottom: 1rem !important;
 }
 
-/* Remove extra spacing within profile links */
+/* Tighten spacing within profile links */
 .intro-section + .menu-list {
-    margin-top: 0 !important;
+    margin-top: 0.5rem !important;
+    list-style-type: decimal !important;
 }
 
 .intro-section + .menu-list li {
-    margin-bottom: 0.2rem !important;
+    margin-bottom: 0.3rem !important;
     margin-top: 0 !important;
+    list-style-type: decimal !important;
 }
 
-/* Add space before posts section */
+/* Adjust space before posts section to compensate */
 .posts-section {
-    margin-top: 4rem !important;
+    margin-top: 6rem !important;
 }
 
 section > ul > li > ul {
@@ -516,24 +518,30 @@ section > ul > li > ul {
     margin-top: 1rem;
 }
 
-/* Remove all bullet points and numbers */
+/* Default to no markers, but allow override */
 ul {
-    list-style-type: none !important;
-    list-style: none !important;
+    list-style-type: none;
+    list-style: none;
 }
 
 li {
+    list-style-type: none;
+    list-style: none;
+}
+
+/* Allow menu lists to show numbers */
+.menu-list, .menu-list li {
+    list-style-type: decimal !important;
+    list-style: decimal !important;
+}
+
+/* Keep posts section without markers */
+.posts-section + ul {
     list-style-type: none !important;
     list-style: none !important;
 }
 
-/* Override any other list styling */
-section ul, article ul, body ul {
-    list-style-type: none !important;
-    list-style: none !important;
-}
-
-section li, article li, body li {
+.posts-section + ul li {
     list-style-type: none !important;
     list-style: none !important;
 }
