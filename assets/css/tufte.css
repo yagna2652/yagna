@@ -486,8 +486,8 @@ label.margin-toggle:not(.sidenote-number) {
 
 /* Custom home page styling */
 .menu-list {
-    list-style-type: decimal !important;
-    list-style: decimal !important;
+    list-style-type: none !important;
+    list-style: none !important;
 }
 
 /* Reduce space between Thoreau quote and social links */
@@ -495,16 +495,16 @@ label.margin-toggle:not(.sidenote-number) {
     margin-bottom: 1rem !important;
 }
 
-/* Tighten spacing within profile links */
+/* Tighten spacing within profile links - no numbers */
 .intro-section + .menu-list {
     margin-top: 0.5rem !important;
-    list-style-type: decimal !important;
+    list-style-type: none !important;
 }
 
 .intro-section + .menu-list li {
     margin-bottom: 0.3rem !important;
     margin-top: 0 !important;
-    list-style-type: decimal !important;
+    list-style-type: none !important;
 }
 
 /* Adjust space before posts section to compensate */
@@ -529,19 +529,19 @@ li {
     list-style: none;
 }
 
-/* Allow menu lists to show numbers */
+/* Social media links have no numbers */
 .menu-list, .menu-list li {
+    list-style-type: none !important;
+    list-style: none !important;
+}
+
+/* Add numbers to posts section only */
+.posts-section + ul {
     list-style-type: decimal !important;
     list-style: decimal !important;
 }
 
-/* Keep posts section without markers */
-.posts-section + ul {
-    list-style-type: none !important;
-    list-style: none !important;
-}
-
 .posts-section + ul li {
-    list-style-type: none !important;
-    list-style: none !important;
+    list-style-type: decimal !important;
+    list-style: decimal !important;
 }
