@@ -1,10 +1,6 @@
-# For documentation on this file, see:
-# https://github.com/riggraz/no-style-please#customize-the-menu
-
 entries:
-  - title: Hi there
+  - title: I is retained everywhere, in respect to egotism. I should not talk so much about myself if there were anybody else whom I knew well.
     entries:
-      - title: I is retained everywhere, in respect to egotism. I should not talk so much about myself if there were anybody else whom I knew well.
       - title: github
         url: https://github.com/yagna2652
       - title: linkedin
@@ -14,29 +10,9 @@ entries:
       - title: POW
         url: https://yagna.site/sauce/2024/01/11/proof-of-work  
 
-  - title: Work related
-    post_list:
-      category: sauce
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: sauce-archive.html
-  - title: design
-    post_list:
-      limit: 5
-      category: design
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
-  - title: Misc
-    post_list:
-      limit: 3
-      category: misc
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
   - title: all posts
     post_list:
-      limit: 0
+      limit: 7
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html

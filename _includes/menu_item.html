@@ -1,6 +1,6 @@
-<ul>
+<ul class="menu-list">
   {%-for item in include.collection-%}
-    <li>
+    <li class="{% if forloop.first %}intro-section{% endif %}{% if item.post_list %}posts-section{% endif %}">
     {%- if item.url -%}
       <a href="{{ item.url }}">{{ item.title }}</a>
     {%- else -%}

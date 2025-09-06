@@ -29,9 +29,9 @@ twitter_username: dadbodshuffl
 github_username:  yagna2652
 
 # Build settings
-theme: no-style-please
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Include fonts directory
 include:
