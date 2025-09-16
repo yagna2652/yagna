@@ -569,3 +569,8 @@ article section h1 + ul li {
     list-style-type: decimal !important;
     list-style: decimal !important;
 }
+
+/* Back link styling */
+.back-link a:hover {
+    opacity: 1 !important;
+}
