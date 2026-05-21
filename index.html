@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Yagna Patel — Generalist Application, Sarvam AI</title>
+<link rel="preconnect" href="https://rsms.me/">
+<link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+<style>
+  :root {
+    --bg: #fdfdfc;          /* warm paper, not screen white */
+    --ink: #21201c;         /* warm near-black — titles */
+    --body: #565651;        /* warm gray — reading text */
+    --muted: #8a8a82;       /* lighter — meta */
+    --rule: #ecebe6;
+    --hl: #2f6f4f;          /* restrained green for metrics */
+    --link: #3a6ea5;        /* muted blue — clickable affordance */
+    --measure: 640px;
+    --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
+  body {
+    background: var(--bg);
+    color: var(--body);
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.65;
+    font-feature-settings: "cv05" 1, "ss01" 1;
+    letter-spacing: -0.003em;
+  }
+  .wrap { max-width: var(--measure); margin: 0 auto; padding: 132px 28px 120px; }
+
+  /* hierarchy lives in weight + color, never size */
+  strong { color: var(--ink); font-weight: 500; }
+  .num   { color: var(--hl); font-weight: 500; }
+  em     { font-style: italic; }
+
+  a {
+    color: var(--link);
+    text-decoration: none;
+    box-shadow: inset 0 -1px 0 0 rgba(58, 110, 165, 0.32);
+    transition: box-shadow 180ms var(--ease-out), color 180ms var(--ease-out);
+  }
+  @media (hover: hover) and (pointer: fine) {
+    a:hover { box-shadow: inset 0 -1px 0 0 var(--link); }
+  }
+
+  /* header */
+  .name { color: var(--ink); font-weight: 500; }
+  .role { color: var(--body); }
+  .meta-top { color: var(--muted); font-size: 14px; margin-top: 3px; }
+
+  .intro { margin-top: 40px; }
+
+  /* case — fully visible, no disclosure. Each is a statement. */
+  .case { margin-top: 40px; padding-top: 40px; border-top: 1px solid var(--rule); }
+  .case h3 { color: var(--ink); font-weight: 500; font-size: 16px; line-height: 1.45; }
+  .case .who { color: var(--muted); font-size: 14px; margin: 4px 0 16px; }
+  .case p { margin-top: 14px; }
+
+  .foot { margin-top: 56px; padding-top: 26px; border-top: 1px solid var(--rule); color: var(--muted); font-size: 15px; }
+  .foot a { box-shadow: none; }
+  @media (hover: hover) and (pointer: fine) { .foot a:hover { box-shadow: inset 0 -1px 0 0 var(--ink); } }
+
+  /* placeholders to fill — easy to spot, removable */
+  .fill { background: #fcf3d6; color: #8a6d1a; padding: 0 4px; border-radius: 3px; font-size: 0.9em; box-shadow: none; }
+
+  /* first-paint stagger — rare/first-time view, so a little delight is allowed.
+     transform + opacity only; under 300ms; short stagger. */
+  .reveal { opacity: 0; transform: translateY(8px); animation: rise 360ms var(--ease-out) forwards; }
+  @keyframes rise { to { opacity: 1; transform: translateY(0); } }
+
+  @media (prefers-reduced-motion: reduce) {
+    .reveal { opacity: 1; transform: none; animation: none; }
+    a { transition: none; }
+  }
+  @media (max-width: 600px) { .wrap { padding: 78px 22px 80px; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="reveal" style="animation-delay:0ms">
+    <div class="name">Yagna Patel</div>
+  </header>
+
+  <p class="intro reveal" style="animation-delay:60ms">
+    I operate like a founder, whether or not the company is mine. I automated a growth engine to a
+    <strong>10x revenue jump</strong> at Ultrahuman, co-founded a startup to first revenue and an
+    acqui-hire, helped take a <strong>YC-backed</strong> AI startup to 100 users, and am now building
+    my own AI media studio.
+  </p>
+
+  <article class="case reveal" style="animation-delay:120ms">
+    <h3>Refused to hire and automated the growth engine instead — revenue went 10x.</h3>
+    <div class="who">Ultrahuman · Growth · Jan 2024 – Jun 2025 · 4-person growth team</div>
+    <p>The bet was "scale is a byproduct of repetition" — 5,000 qualified prospects a month, 240 personalized outreaches a day, 60 per person. Manual effort had hit its ceiling: inconsistent output, burnout, a hard cap on revenue. The obvious move was to hire.</p>
+    <p>I built an automation engine across the full growth data lifecycle instead. Top-of-funnel: ingested creator content from YouTube, auto-transcribed via AssemblyAI, summarized for collaboration angles — hours of research became one click. Partner comms: context-aware email replies that read full threads and pulled creator data from Sheets, multi-stage follow-ups via Rebump, a proprietary creator-relationship scoring tool. The operating principle I set for the team: anything repetitive can and should be automated.</p>
+    <p>Monthly revenue <span class="num">$250K → $2.9M</span> (>10x) · DRR <span class="num">+170%</span> (Oct → Dec) · <span class="num">$6.8M</span> direct website sales + <span class="num">$414K</span> creator-driven Amazon sales · targets exceeded with <strong>zero headcount increase</strong>.</p>
+  </article>
+
+  <article class="case reveal" style="animation-delay:160ms">
+    <h3>Stood up a services arm to fund the build, and closed my old employer as customer one.</h3>
+    <div class="who">Etheca (self-founded) · Co-founder · Jun 2025 – Sep 2025 · with one co-founder, ex-Ultrahuman</div>
+    <p>The thesis: the best way to get work out of AI is to give it precise instructions, and the bottleneck is that people can't describe their own processes. Process knowledge lives in people's hands, not in docs — you can't automate what you can't describe.</p>
+    <p>The product: press a shortcut, it watches your screen, narrates what you're doing, and turns it into an SOP you can hand to AI to automate. I designed it, built a <a href="https://x.com/dadbodshuffl/status/1955194292269359482/video/1" target="_blank" rel="noopener">working demo on V0</a>, and ran user outreach for validation. In parallel I stood up a services arm — custom AI-native GTM workflows — and onboarded <strong>Ultrahuman as first paying customer at $500/mo recurring</strong>.</p>
+    <p>Traction drew an <strong>acqui-hire offer from a Thiel Fellow</strong> before we'd registered the company. I joined to build <a href="https://memory.store/" target="_blank" rel="noopener">Memory Store</a>.</p>
+  </article>
+
+  <article class="case reveal" style="animation-delay:200ms">
+    <h3><a href="https://memory.store/" target="_blank" rel="noopener">Memory Store</a> (YC) — joined for ~4 months to lead product &amp; GTM, left because I wasn't building my own vision.</h3>
+    <p>Got the product into <span class="num">100 users</span> and <strong>accepted into Y Combinator</strong>. Shipped as an MCP server with three core actions — Record, Recall, Overview — validating the core memory loop for AI agents.</p>
+    <p>See it in action: <a href="https://x.com/dadbodshuffl/status/2008494110987218978/video/1" target="_blank" rel="noopener">demo 1</a> · <a href="https://x.com/dadbodshuffl/status/2009520029520548247/video/1" target="_blank" rel="noopener">demo 2</a> · <a href="https://x.com/dadbodshuffl/status/2011661203177980039/video/1" target="_blank" rel="noopener">demo 3</a>.</p>
+  </article>
+
+  <article class="case reveal" style="animation-delay:240ms">
+    <h3>Left a YC company to build <a href="https://www.pulp.to/" target="_blank" rel="noopener">Pulp</a>.</h3>
+    <div class="who">Founder · 2026–present</div>
+    <p>A creative-plus-AI media lab — a studio that makes content <em>and</em> the tools to make it. The Catmull / Pixar thesis: the people building the instruments and the people making the work should be the same people, in the same room. Models can now generate; the missing layer is where a human with taste shapes the output.</p>
+    <p>Revenue model: sell content, sell tools, content-making-as-a-service.</p>
+  </article>
+
+  <div class="foot reveal" style="animation-delay:280ms">
+    <a href="mailto:thisyagna@gmail.com">thisyagna@gmail.com</a>
+    &nbsp; · &nbsp; <a href="https://github.com/yagna2652" target="_blank" rel="noopener">GitHub</a>
+    &nbsp; · &nbsp; <a href="#">LinkedIn</a>
+  </div>
+
+</div>
+</body>
+</html>
