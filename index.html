@@ -4,6 +4,13 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Yagna</title>
+<script>
+  (function () {
+    var t = localStorage.getItem('theme');
+    if (!t) t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+    document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
 <link rel="preconnect" href="https://rsms.me/">
 <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
 <style>
@@ -15,6 +22,7 @@
     --rule: #ecebe6;
     --hl: #2f6f4f;          /* restrained green for metrics */
     --link: #3a6ea5;        /* muted blue — clickable affordance */
+    --link-underline: rgba(58, 110, 165, 0.32);
     --measure: 640px;
     --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
   }
@@ -28,6 +36,7 @@
     line-height: 1.65;
     font-feature-settings: "cv05" 1, "ss01" 1;
     letter-spacing: -0.003em;
+    transition: background-color 220ms var(--ease-out), color 220ms var(--ease-out);
   }
   .wrap { max-width: var(--measure); margin: 0 auto; padding: 132px 28px 120px; }
 
@@ -39,7 +48,7 @@
   a {
     color: var(--link);
     text-decoration: none;
-    box-shadow: inset 0 -1px 0 0 rgba(58, 110, 165, 0.32);
+    box-shadow: inset 0 -1px 0 0 var(--link-underline);
     transition: box-shadow 180ms var(--ease-out), color 180ms var(--ease-out);
   }
   @media (hover: hover) and (pointer: fine) {
@@ -76,9 +85,51 @@
     a { transition: none; }
   }
   @media (max-width: 600px) { .wrap { padding: 78px 22px 80px; } }
+
+  /* dark mode — warm, not pure black */
+  html[data-theme="dark"] {
+    --bg: #1a1916;
+    --ink: #ecebe6;
+    --body: #b0ada4;
+    --muted: #6f6d65;
+    --rule: #2c2a26;
+    --hl: #6bbf95;
+    --link: #7db2e6;
+    --link-underline: rgba(125, 178, 230, 0.34);
+  }
+  html[data-theme="dark"] .fill { background: #4a3f1a; color: #e8d49a; }
+
+  /* theme toggle — fixed top right */
+  .theme-toggle {
+    position: fixed; top: 22px; right: 22px;
+    width: 38px; height: 38px;
+    display: grid; place-items: center;
+    background: var(--bg); color: var(--muted);
+    border: 1px solid var(--rule); border-radius: 9px;
+    cursor: pointer; z-index: 10;
+    -webkit-tap-highlight-color: transparent;
+    transition: transform 160ms var(--ease-out), color 160ms var(--ease-out),
+                border-color 160ms var(--ease-out), background-color 220ms var(--ease-out);
+  }
+  .theme-toggle:active { transform: scale(0.94); }
+  @media (hover: hover) and (pointer: fine) {
+    .theme-toggle:hover { color: var(--ink); border-color: var(--muted); }
+  }
+  .theme-toggle svg { width: 18px; height: 18px; display: block; }
+  .theme-toggle .sun { display: none; }
+  html[data-theme="dark"] .theme-toggle .moon { display: none; }
+  html[data-theme="dark"] .theme-toggle .sun { display: block; }
+
+  @media (prefers-reduced-motion: reduce) {
+    body, .theme-toggle, a { transition: none; }
+  }
 </style>
 </head>
 <body>
+<button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode" title="Toggle theme">
+  <svg class="moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+  <svg class="sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"/></svg>
+</button>
 <div class="wrap">
 
   <header class="reveal" style="animation-delay:0ms">
@@ -126,5 +177,12 @@
   </div>
 
 </div>
+<script>
+  document.getElementById('themeToggle').addEventListener('click', function () {
+    var next = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+    document.documentElement.setAttribute('data-theme', next);
+    localStorage.setItem('theme', next);
+  });
+</script>
 </body>
 </html>
