@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Yagna Patel — Resume</title>
+<link rel="preconnect" href="https://rsms.me/">
+<link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+<style>
+  :root {
+    --bg: #fdfdfc;
+    --ink: #21201c;
+    --body: #565651;
+    --muted: #8a8a82;
+    --rule: #d8d7d2;
+    --hl: #2f6f4f;
+    --link: #3a6ea5;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
+  body {
+    background: var(--bg);
+    color: var(--body);
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    line-height: 1.58;
+    font-feature-settings: "cv05" 1, "ss01" 1;
+    letter-spacing: -0.003em;
+    padding: 48px 56px;
+    max-width: 800px;
+    margin: 0 auto;
+    height: 297mm;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+
+  strong { color: var(--ink); font-weight: 500; }
+  .num   { color: var(--hl); font-weight: 500; }
+  a      { color: var(--link); text-decoration: none; }
+
+  /* ── Header ── */
+  .hd-name {
+    color: var(--ink);
+    font-size: 22px;
+    font-weight: 500;
+    letter-spacing: -0.025em;
+    line-height: 1.1;
+  }
+  .hd-title {
+    color: var(--body);
+    font-size: 13px;
+    margin-top: 4px;
+  }
+  .hd-contact {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3px 20px;
+    margin-top: 9px;
+    color: var(--muted);
+    font-size: 12px;
+  }
+  .hd-contact a { color: var(--muted); }
+
+  /* ── Summary ── */
+  .summary {
+    margin-top: 20px;
+    padding-top: 18px;
+    border-top: 1px solid var(--rule);
+    font-size: 13px;
+    line-height: 1.6;
+  }
+
+  /* ── Section ── */
+  .section { margin-top: 20px; padding-top: 18px; border-top: 1px solid var(--rule); }
+
+  /* experience grows to fill remaining vertical space */
+  .section.experience {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+  }
+  .roles {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .section-label {
+    font-size: 9.5px;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: 16px;
+  }
+
+  /* ── Role ── */
+  .role { flex: 1; display: flex; flex-direction: column; justify-content: flex-start; }
+  .role + .role { border-top: 1px solid var(--rule); padding-top: 14px; margin-top: 14px; }
+
+  .role-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 10px;
+  }
+  .role-title { color: var(--muted); font-weight: 400; font-size: 12px; margin-top: 2px; }
+  .role-dates { color: var(--muted); font-size: 12px; white-space: nowrap; flex-shrink: 0; }
+  .role-company { color: var(--ink); font-weight: 500; font-size: 13.5px; }
+  .role-company a { color: var(--ink); }
+
+  .role ul {
+    margin-top: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+  .role li {
+    list-style: none;
+    position: relative;
+    padding-left: 14px;
+  }
+  .role li::before {
+    content: "–";
+    position: absolute;
+    left: 0;
+    color: var(--muted);
+  }
+
+  /* ── Skills ── */
+  .skills-grid { display: flex; flex-direction: column; gap: 7px; }
+  .skill-row {
+    display: grid;
+    grid-template-columns: 115px 1fr;
+    gap: 10px;
+    font-size: 12.5px;
+  }
+  .skill-label { color: var(--muted); }
+  .skill-items { color: var(--body); }
+</style>
+</head>
+<body>
+
+  <header>
+    <div class="hd-name">Yagna Patel</div>
+    <div class="hd-title">GTM &amp; Product · Customer Success · AI-native</div>
+    <div class="hd-contact">
+      <a href="mailto:thisyagna@gmail.com">thisyagna@gmail.com</a>
+      <span style="color:var(--muted)">·</span>
+      <a href="https://www.linkedin.com/in/yagna2652/">linkedin.com/in/yagna2652</a>
+      <span style="color:var(--muted)">·</span>
+      <a href="https://github.com/yagna2652">github.com/yagna2652</a>
+    </div>
+  </header>
+
+  <div class="summary">
+    I own customer relationships end-to-end — from demo to integration to production — and bring market intelligence back into GTM and product decisions. I've helped take a <strong>YC-backed</strong> AI startup to <span class="num">100 users</span>, co-founded a startup to first revenue and an acqui-hire, and built automation systems that drove <strong>&gt;10× revenue growth</strong>. I operate at founder velocity and thrive where technical curiosity meets customer impact.
+  </div>
+
+  <section class="section experience">
+    <div class="section-label">Experience</div>
+    <div class="roles">
+
+    <div class="role">
+      <div class="role-header">
+        <span class="role-company"><a href="https://memory.store/">Memory Store</a> · <strong>YC P26</strong> · 4-person team</span>
+        <span class="role-dates">2025 – 2026</span>
+      </div>
+      <div class="role-title">Product &amp; GTM Lead</div>
+      <ul>
+        <li>Owned customer relationships end-to-end — ran demos, managed onboarding, and took users from API key to working product; grew to <span class="num">100 users</span> and <strong>Y Combinator (P26)</strong>.</li>
+        <li>Shipped core MCP server (Record, Recall, Overview) and authored reference integrations that unblocked early adopters on LLM-based memory workflows.</li>
+        <li>Acted as voice of the customer: relayed precise model feedback and integration failure patterns to the engineering team, closing the loop with users after each fix.</li>
+      </ul>
+    </div>
+
+    <div class="role">
+      <div class="role-header">
+        <span class="role-company">Etheca · Self-founded · with one co-founder (ex-Ultrahuman)</span>
+        <span class="role-dates">2024 – 2025</span>
+      </div>
+      <div class="role-title">Co-founder</div>
+      <ul>
+        <li>Built an AI tool that watches your screen, narrates workflows, and generates SOPs for AI handoff — designed, demoed, and validated with real customers.</li>
+        <li>Ran customer discovery and outreach end-to-end; surfaced recurring patterns across accounts to sharpen product positioning and GTM sequencing.</li>
+        <li>Stood up a services arm, onboarded <strong>Ultrahuman as first paying customer at <span class="num">$500 / mo recurring</span></strong>, and received an <strong>acqui-hire offer from a Thiel Fellow</strong> before registering the company.</li>
+      </ul>
+    </div>
+
+    <div class="role">
+      <div class="role-header">
+        <span class="role-company">Ultrahuman · 4-person growth team</span>
+        <span class="role-dates">18 months</span>
+      </div>
+      <div class="role-title">Growth</div>
+      <ul>
+        <li>Built end-to-end GTM automation: ingested creator content via API, auto-transcribed with AI, generated personalised outreach, and scored relationships with a proprietary tool — replacing manual research with one click.</li>
+        <li>Tracked competitive landscape and surfaced market intelligence across <span class="num">5,000 prospects / month</span>; brought account-level patterns directly into GTM strategy — <strong>zero headcount increase</strong>.</li>
+        <li>Monthly revenue <span class="num">$250K → $2.9M</span> (&gt;10×) · DRR <span class="num">+170%</span> (Oct – Dec) · <span class="num">$6.8M</span> direct website sales · <span class="num">$414K</span> creator-driven Amazon sales.</li>
+      </ul>
+    </div>
+    </div><!-- /.roles -->
+  </section>
+
+  <section class="section">
+    <div class="section-label">Skills</div>
+    <div class="skills-grid">
+      <div class="skill-row">
+        <span class="skill-label">Growth</span>
+        <span class="skill-items">GTM strategy, customer success, market intelligence, competitive landscape mapping, growth ops</span>
+      </div>
+      <div class="skill-row">
+        <span class="skill-label">Product</span>
+        <span class="skill-items">User empathy, demo storytelling, API integrations, LLM tooling, voice of customer</span>
+      </div>
+      <div class="skill-row">
+        <span class="skill-label">Systems Thinking</span>
+        <span class="skill-items">Breaking down complexity, process design, AI-native workflow automation</span>
+      </div>
+    </div>
+  </section>
+
+</body>
+</html>
